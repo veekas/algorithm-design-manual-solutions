@@ -20,7 +20,7 @@ const getToOneFrom = (function () {
   };
 })();
 
-function getToOneForEachBetween(first, last) {
+function maxIterationsToReachOneBetween(first, last) {
   let maxCount = 0;
 
   for (let i = first; i <= last; i++) {
