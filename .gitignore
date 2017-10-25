@@ -1,2 +1,5 @@
 *.pdf
 *notes*
+package.json
+package-lock.json
+node_modules
